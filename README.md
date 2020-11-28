@@ -4,4 +4,4 @@ I am a learning developer who is curently learning new teachnologies .I can code
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Vishesht27)
 
 <i>Follow me around the web:</i><br>
-[![Linkedin Badge](https://img.shields.io/badge/-abishek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishesh-tripathi-3a62961b8/)]
+[![Linkedin Badge](https://img.shields.io/badge/-Vishesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishesh-tripathi-3a62961b8/)]
