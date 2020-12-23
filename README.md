@@ -7,14 +7,11 @@
 
 - 🌱 I’m currently learning **Android and Web Development**
 
-- 📝 I regularly write articles on [https://hackernoon.com/u/vishesht27](https://hackernoon.com/u/vishesht27)
-
-- 📫 How to reach me **vishesht27@gmail.com**
-
 - ⚡ Fun fact **:Can code for a whole night and still crave for more in morning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  
 <a href="https://dev.to/vishesht27" target="blank"><img align="center" src="https://github.com/Vishesht27/Vishesht27/blob/main/dev1.png" alt="vishesht27" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/vishesh-tripathi-3a62961b8/" target="blank"><img align="center" src="https://github.com/Vishesht27/Vishesht27/blob/main/linkedin1.jpg" alt="vishesh tripathi" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/vishesht27" target="blank"><img align="center" src="https://github.com/Vishesht27/Vishesht27/blob/main/download.jpg" alt="vishesht27" height="30" width="40" /></a>
@@ -22,7 +19,8 @@
 <a href="https://codeforces.com/profile/vishesht27" target="blank"><img align="center" src="https://github.com/Vishesht27/Vishesht27/blob/main/codeforces1.png" alt="vishesht27" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vishesht27" target="blank"><img align="center" src="https://github.com/Vishesht27/Vishesht27/blob/main/LeetCode_logo_rvs.png" alt="vishesht27" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@vishesht27" target="blank"><img align="center" src="https://github.com/Vishesht27/Vishesht27/blob/main/hackerearth1.png" alt="vishesht27" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/vishesht27/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="vishesht27" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/vishesht27/profile" target="blank"><img align="center" src="https://github.com/Vishesht27/Vishesht27/blob/main/gfg1.png" alt="vishesht27" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
