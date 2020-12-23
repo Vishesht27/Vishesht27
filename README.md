@@ -20,6 +20,7 @@
 <a href="https://www.leetcode.com/vishesht27" target="blank"><img align="center" src="https://github.com/Vishesht27/Vishesht27/blob/main/LeetCode_logo_rvs.png" alt="vishesht27" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@vishesht27" target="blank"><img align="center" src="https://github.com/Vishesht27/Vishesht27/blob/main/hackerearth1.png" alt="vishesht27" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/vishesht27/profile" target="blank"><img align="center" src="https://github.com/Vishesht27/Vishesht27/blob/main/gfg1.png" alt="vishesht27" height="30" width="40" /></a>
+<a href="https://hackernoon.com/u/vishesht27" target="blank"><img align="center" src="https://github.com/Vishesht27/Vishesht27/blob/main/hw2.jpg" alt="vishesht27" height="30" width="40" /></a>
 
 </p>
 
