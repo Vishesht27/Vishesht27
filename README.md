@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Vishesh Tripathi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi ,I'm Vishesh Tripathi</h1><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
+<h3 align="center">A passionate  developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishesht27&label=Profile%20views&color=0e75b6&style=flat" alt="vishesht27" /> </p>
 
