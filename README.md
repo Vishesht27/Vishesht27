@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://dev.to/vishesht27" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="vishesht27" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/vishesh-tripathi-3a62961b8/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vishesh tripathi" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/vishesht27" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vishesht27" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/vishesht27" target="blank"><img align="center" src="https://github.com/Vishesht27/Vishesht27/blob/main/download.jpg" alt="vishesht27" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/vishesht27" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="vishesht27" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/vishesht27" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="vishesht27" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vishesht27" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="vishesht27" height="30" width="40" /></a>
