@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **vishesht27@gmail.com**
 
-- ⚡ Fun fact **Can code for a whole night and still crave for more in morning**
+- ⚡ Fun fact **:Can code for a whole night and still crave for more in morning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
