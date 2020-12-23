@@ -15,13 +15,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/vishesht27" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="vishesht27" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/vishesh-tripathi-3a62961b8/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vishesh tripathi" height="30" width="40" /></a>
+<a href="https://dev.to/vishesht27" target="blank"><img align="center" src="https://github.com/Vishesht27/Vishesht27/blob/main/dev1.png" alt="vishesht27" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vishesh-tripathi-3a62961b8/" target="blank"><img align="center" src="https://github.com/Vishesht27/Vishesht27/blob/main/linkedin1.jpg" alt="vishesh tripathi" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/vishesht27" target="blank"><img align="center" src="https://github.com/Vishesht27/Vishesht27/blob/main/download.jpg" alt="vishesht27" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vishesht27" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="vishesht27" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/vishesht27" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="vishesht27" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vishesht27" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="vishesht27" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@vishesht27" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="vishesht27" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/vishesht27" target="blank"><img align="center" src="https://github.com/Vishesht27/Vishesht27/blob/main/HackerRank_logo.png" alt="vishesht27" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/vishesht27" target="blank"><img align="center" src="https://github.com/Vishesht27/Vishesht27/blob/main/codeforces1.png" alt="vishesht27" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/vishesht27" target="blank"><img align="center" src="https://github.com/Vishesht27/Vishesht27/blob/main/LeetCode_logo_rvs.png" alt="vishesht27" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@vishesht27" target="blank"><img align="center" src="https://github.com/Vishesht27/Vishesht27/blob/main/hackerearth1.png" alt="vishesht27" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/vishesht27/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="vishesht27" height="30" width="40" /></a>
 </p>
 
