@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishesht27" alt="vishesht27" /></a> </p>
 
-- 🌱 I’m currently learning **Android and Web Development**
+- 🌱 I’m currently learning **Android , Web Development & Machine Learning**
 
 - ⚡ Fun fact **:Can code for a whole night and still crave for more in morning**
 
