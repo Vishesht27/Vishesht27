@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">I'm Vishesh Tripathi</h1>
 <h3 align="center">A passionate Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishesht27&label=Profile%20views&color=0e75b6&style=flat" alt="vishesht27" /> </p>
+
 
 <img src="https://github.com/paulsonjpaul/paulsonjpaul/blob/main/Coding%20_Monochromatic.svg" alt="Illustration" width="600" align="right" />
 
@@ -37,6 +37,6 @@
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Vishesht27&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p> 
 
-
+<img align="center" width="250px" height="250px" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1608216254364.png">
 
 
