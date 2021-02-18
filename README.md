@@ -22,7 +22,7 @@ I am a first year Computer Science student who is learning a lot of things right
 - ⚡ Fun fact **:Can code for a whole night and still crave for more in morning**
 
 
-<h2 align="left">Reach me on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
+<h2 align="left">Reach me on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" ></h2>
 <p align="left">
   
 
