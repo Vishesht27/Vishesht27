@@ -10,12 +10,12 @@
 - ⚡ Fun fact **:Can code for a whole night and still crave for more in morning**
 
 
-<h2 align="center">Reach me on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
-<p align="center">
+<h2 align="left">Reach me on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
+<p align="left">
   
 
-<img src="https://img.shields.io/badge/-ritik-c14438?style=flat-square&logo=Gmail&logoColor=white&link=vishesht27@gmail.com"/>
-<img src="https://img.shields.io/badge/-ritik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishesh-tripathi-3a62961b8/"/>
+<img src="https://img.shields.io/badge/-vishesh-c14438?style=flat-square&logo=Gmail&logoColor=white&link=vishesht27@gmail.com"/>
+<img src="https://img.shields.io/badge/-vishesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishesh-tripathi-3a62961b8/"/>
 
 
 </p>
