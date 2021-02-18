@@ -5,6 +5,8 @@
 
 <img src="https://github.com/paulsonjpaul/paulsonjpaul/blob/main/Coding%20_Monochromatic.svg" alt="Illustration" width="600" align="right" />
 
+I am a first year Computer Science student who is learning a lot of things right now and trying to contribute to the community.
+
 - 🌱 I’m currently learning **Application , Web Development & Machine Learning**
 
 - ⚡ Fun fact **:Can code for a whole night and still crave for more in morning**
@@ -37,6 +39,6 @@
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Vishesht27&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p> 
 
-<img align="center" width="250px" height="250px" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1608216254364.png">
+<img align="left" width="250px" height="250px" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1608216254364.png">
 
-
+<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
