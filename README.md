@@ -7,6 +7,16 @@
 
 I am a first year Computer Science student who is learning a lot of things right now and trying to contribute to the community.
 
+> I am not a jack of all trades, I am a master of many. I dont feel  there is anything I can't do I want to - Evel Kniewel
+ 
+
+### Hobbies 😆:
+
+- Coding 👨‍💻
+- Contributing to open source ✌️
+- Reading 📚
+
+
 - 🌱 I’m currently learning **Application , Web Development & Machine Learning**
 
 - ⚡ Fun fact **:Can code for a whole night and still crave for more in morning**
