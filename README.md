@@ -23,6 +23,7 @@ I am a first year Computer Science student who is learning a lot of things right
 
 
 <h2 align="left">Reach me on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif"  width="50"></h2>
+<img align="right" width="250px" height="250px" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1608216254364.png">
 <p align="left">
   
 
@@ -49,6 +50,6 @@ I am a first year Computer Science student who is learning a lot of things right
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Vishesht27&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p> 
 
-<img align="left" width="250px" height="250px" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1608216254364.png">
+
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
