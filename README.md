@@ -52,4 +52,4 @@ I am a first year Computer Science student who is learning a lot of things right
 
 
 
-<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="50%" align="center" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
