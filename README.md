@@ -43,12 +43,9 @@ I am a first year Computer Science student who is learning a lot of things right
 <br>
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=Vishesht27&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Vishesht27&theme=radical">
-</p>
-<p align = "center">
- 
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Vishesht27&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
-</p> 
+ >
+</p>
 
 
 
