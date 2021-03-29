@@ -27,8 +27,7 @@ I am a first year Computer Science student who is learning a lot of things right
 <p align="left">
   
 
-<img src="https://img.shields.io/badge/-vishesh-c14438?style=flat-square&logo=Gmail&logoColor=white&link=vishesht27@gmail.com"/>
-<img src="https://img.shields.io/badge/-vishesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishesh-tripathi-3a62961b8/"/>
+<a href="https://www.linkedin.com/in/maxbridgland/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" ></a>
 
 
 </p>
@@ -42,7 +41,8 @@ I am a first year Computer Science student who is learning a lot of things right
  
 <br>
 <p align = "center">
-  <a href="https://www.linkedin.com/in/vishesh-tripathi-3a62961b8/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
+ <img  src = "https://github-readme-stats.vercel.app/api?username=Vishesht27&show_icons=true&theme=radical&line_height=27">
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Vishesht27&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
  >
 </p>
 
