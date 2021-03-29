@@ -2,7 +2,7 @@
 <p>
 <h3 align="center">A passionate Developer from India</h3>
 <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="80px" width="80px" align="left">
-<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="80px" width="80px" align="right">
+
 </p>
 
 <br>
@@ -16,6 +16,7 @@ I am a first year Computer Science student who is learning a lot of things right
 
 > I am not a jack of all trades, I am a master of many. I dont feel  there is anything I can't do I want to - Evel Kniewel
  
+ <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="80px" width="80px" align="right">
 
 ### Hobbies 😆:
 
