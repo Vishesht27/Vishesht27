@@ -1,12 +1,17 @@
 <h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">I'm Vishesh Tripathi</h1>
 <p>
 <h3 align="center">A passionate Developer from India</h3>
-<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="40px" width="40px" align="left">
-<img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="40px" width="40px" align="right">
+<img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="40px" width="40px" align="left">
+<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="40px" width="40px" align="right">
 </p>
 
-<img src="https://github.com/paulsonjpaul/paulsonjpaul/blob/main/Coding%20_Monochromatic.svg" alt="Illustration" width="600" align="right" />
+<br>
+<br>
 
+<img src="https://github.com/paulsonjpaul/paulsonjpaul/blob/main/Coding%20_Monochromatic.svg" alt="Illustration" width="600" align="right" />
+<br>
+<br>
+<br>
 I am a first year Computer Science student who is learning a lot of things right now and trying to contribute to the community.
 
 > I am not a jack of all trades, I am a master of many. I dont feel  there is anything I can't do I want to - Evel Kniewel
