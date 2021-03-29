@@ -16,7 +16,7 @@ I am a first year Computer Science student who is learning a lot of things right
 
 > I am not a jack of all trades, I am a master of many. I dont feel  there is anything I can't do I want to - Evel Kniewel
  
- <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="80px" width="80px" align="right">
+
 
 ### Hobbies 😆:
 
@@ -28,6 +28,8 @@ I am a first year Computer Science student who is learning a lot of things right
 - 🌱 I’m currently learning **Application , Web Development & Machine Learning**
 
 - ⚡ Fun fact **:Can code for a whole night and still crave for more in morning**
+
+ <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="80px" width="80px" align="right">
 
 
 <h2 align="left">Reach me on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif"  width="50"></h2>
