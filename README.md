@@ -1,9 +1,9 @@
 <h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">I'm Vishesh Tripathi</h1>
-<p align="left"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"></p>
+<p>
+<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px" align="left">
 <h3 align="center">A passionate Developer from India</h3>
-
-<p align="right"><img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
-
+<img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px" align="right">
+</p>
 
 <img src="https://github.com/paulsonjpaul/paulsonjpaul/blob/main/Coding%20_Monochromatic.svg" alt="Illustration" width="600" align="right" />
 
