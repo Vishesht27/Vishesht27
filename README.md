@@ -16,7 +16,7 @@ I am a first year Computer Science student who is learning a lot of things right
 
 > I am not a jack of all trades, I am a master of many. I dont feel  there is anything I can't do I want to - Evel Kniewel
  
-
+[**Nominate Me for GitHub Stars!**](https://stars.github.com/nominate/)
 
 ### Hobbies 😆:
 
