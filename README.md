@@ -39,6 +39,8 @@ I am a first year Computer Science student who is learning a lot of things right
 
 <a href="https://www.linkedin.com/in/vishesh-tripathi-3a62961b8/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="80px" width="80px" alt="Twitter" ></a>
 
+<a href="mailto:vishesht27@gmail.com?subject=Hello%20Harsh,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 </p>
 
