@@ -25,7 +25,7 @@ I am a first year Computer Science student who is learning a lot of things right
 - Reading 📚
 
 
-- 🌱 I’m currently learning **Application , Web Development & Machine Learning**
+- 🌱 I’m wearing three hats as a **Full Stack Developer, Competitive programmer & Machine Learning Enthusiast**.
 
 - ⚡ Fun fact **:Can code for a whole night and still crave for more in morning**
 
