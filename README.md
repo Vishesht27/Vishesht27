@@ -28,7 +28,7 @@ I am a first year Computer Science student who is learning a lot of things right
 - Reading & Writing📚
 
 
-- 🌱 I’m wearing three hats as a **Full Stack Developer, Competitive programmer & Machine Learning Enthusiast**.
+- 🌱 I’m wearing four hats hats as a **Full Stack Developer, Competitive programmer, UI/UX Designer & Machine Learning Enthusiast**.
 
 - ⚡ Fun fact **:Can code for a whole night and still crave for more in morning**
 
