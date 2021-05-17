@@ -26,7 +26,7 @@ I am a first year Computer Science student who is learning a lot of things right
 - Coding 👨‍💻
 - Contributing to open source ✌️
 - Reading & Writing📚
-
+- Designing 
 
 - 🌱 I’m wearing four hats hats as a **Full Stack Developer, Competitive programmer, UI/UX Designer & Machine Learning Enthusiast**.
 
