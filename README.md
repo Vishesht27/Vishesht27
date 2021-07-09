@@ -12,7 +12,7 @@
 <br>
 <br>
 <br>
-I am a first year Computer Science student who is learning a lot of things right now and trying to contribute to the community.
+I am a second year Computer Science student who is learning a lot of things right now and trying to contribute to the community.
 
 > I am not a jack of all trades, I am a master of many. I dont feel  there is anything I can't do I want to <br>- Evel Kniewel
  
