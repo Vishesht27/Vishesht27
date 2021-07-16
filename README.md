@@ -8,7 +8,7 @@
 <br>
 <br>
 
-<img src="https://github.com/paulsonjpaul/paulsonjpaul/blob/main/Coding%20_Monochromatic.svg" alt="Illustration" width="600" align="right" />
+<img align="right" alt="Coding" width="400" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif">
 <br>
 <br>
 <br>
