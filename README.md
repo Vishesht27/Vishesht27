@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">I'm Vishesh Tripathi</h1>
+<h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="40px" width="40px">I'm Vishesh Tripathi</h1>
 <p>
 <h3 align="center">A passionate Developer from India</h3>
 <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="80px" width="80px" align="left">
