@@ -21,6 +21,8 @@ I am a second year Computer Science student who is learning a lot of things righ
 <br>
 [**View My Portfolio**](https://vishesht27.github.io/#/)
 
+[**View My Resume**](https://drive.google.com/file/d/1Ygvq_DFEI-hzGJ5K2nAL7ArhB-yek3-d/view?usp=sharing)
+
 ### Hobbies 😆:
 
 - Coding 👨‍💻
