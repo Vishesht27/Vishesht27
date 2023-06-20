@@ -12,16 +12,16 @@
 <br>
 <br>
 <br>
-I am a third year Computer Science student who is learning a lot of things right now and trying to contribute to the community.
+I am a four-year Computer Science student who is learning a lot of things right now and trying to contribute to the community.
 
-> I am not a jack of all trades, I am a master of many. I dont feel  there is anything I can't do I want to <br>- Evel Kniewel
+> I am not a jack of all trades, I am a master of many. I don't feel  there is anything I can't do I want to <br>- Evel Knievel
  
 <br>
 <br>
 
 [**View My Portfolio**](https://vishesht27.github.io/#/)
 
-[**View My Resume**](https://drive.google.com/file/d/1Ygvq_DFEI-hzGJ5K2nAL7ArhB-yek3-d/view?usp=sharing)
+[**View My Resume**](https://drive.google.com/file/d/1egtSz4IKJroWrljYrLmr0t2q4wr67f1T/view?usp=drive_link)
 
 ### Hobbies 😆:
 
@@ -30,9 +30,9 @@ I am a third year Computer Science student who is learning a lot of things right
 - Reading & Writing📚
 - Designing 
 
-- 🌱 I’m wearing four hats hats as a **Full Stack Developer, Competitive programmer, UI/UX Designer & Machine Learning Enthusiast**.
+- 🌱 I am a Machine Learning Enthusiast**.
 
-- ⚡ Fun fact **:Can code for a whole night and still crave for more in morning**
+- ⚡ Fun fact **: I can code for a whole night and still crave more in the morning**
 
  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="80px" width="80px" align="right">
 
