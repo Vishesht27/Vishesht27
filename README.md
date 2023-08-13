@@ -25,6 +25,11 @@ I am a final-year Computer Science student who is learning a lot of things right
 
 ## About me :
 
+- [x] **Certified TensorFlow Developer**🤩
+
+<img src="https://github.com/mayureshagashe2105/mayureshagashe2105/blob/main/assets/Certified%20TensorFlow%20Developer%20Badge.png" align="center" height="250px" width="250px"/>
+
+
 - I have done Machine Learning Research Intern at IIT Jodhpur, Software Development Engineer at Kisaan Pro & Junior ML Engineer Intern at Omdena.
 - I have also been Android Lead at Google-DSC & Beta-Student-Ambassador at Microsoft Learn. I have learned skills like collaborative project communication and speaking in webinars
 - I usually play guitar🎸 and love reading books📚 when I am not working. I love coding👨‍💻 as they always make me feel like contributing.
