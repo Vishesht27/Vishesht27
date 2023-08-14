@@ -63,21 +63,21 @@ I am a final-year Computer Science student who is learning a lot of things right
 
 ## Honors & Awards 🏅
 
-▪ [Economic Times](https://hr.economictimes.indiatimes.com/news/industry/unstop-campus-hiring-meet-2023-where-talent-meets-opportunities/100612541) & [Forbes India Featured](https://unstop.com/awards/2023) - [Unstop India’s Top 10 E-School Leaders 2023](https://unstop.com/awards/u/vishesh-tripathi-1086077/2023).
+▪   [Economic Times](https://hr.economictimes.indiatimes.com/news/industry/unstop-campus-hiring-meet-2023-where-talent-meets-opportunities/100612541) & [Forbes India Featured](https://unstop.com/awards/2023) - [Unstop India’s Top 10 E-School Leaders 2023](https://unstop.com/awards/u/vishesh-tripathi-1086077/2023)
 
-▪ [Microsoft Imagine Cup 2022](https://www.linkedin.com/posts/vishesh-tripathi_microsoft-imaginecup-activity-6899275504231559168-qpqh?utm_source=share&utm_medium=member_desktop) – National Runner Up in Earth Category competing with 2700+ teams.
+▪  [Microsoft Imagine Cup 2022](https://www.linkedin.com/posts/vishesh-tripathi_microsoft-imaginecup-activity-6899275504231559168-qpqh?utm_source=share&utm_medium=member_desktop) – National Runner Up in Earth Category competing with 2700+ teams
 
-▪ [FIIB Meraki](https://www.linkedin.com/posts/vishesh-tripathi_another-achievement-by-team-kisaan-pro-activity-6915998294468882432-LP8u?utm_source=share&utm_medium=member_desktop) - Winner at Biggest B-Plan Battle.
+▪  [FIIB Meraki](https://www.linkedin.com/posts/vishesh-tripathi_another-achievement-by-team-kisaan-pro-activity-6915998294468882432-LP8u?utm_source=share&utm_medium=member_desktop) - Winner at Biggest B-Plan Battle
 
-▪ [ICPC Regionalist](https://drive.google.com/file/d/1dDKEGHtFre1Jp2-xDYFCM3VGHU3P1bpm/view?usp=sharing) – Asia Amritapuri, competed with more than 7000 teams and ranked in the top 600.
+▪ [ICPC Regionalist](https://drive.google.com/file/d/1dDKEGHtFre1Jp2-xDYFCM3VGHU3P1bpm/view?usp=sharing) – Asia Amritapuri, competed with more than 7000 teams and ranked in the top 600
 
-▪ [LeetCode](https://leetcode.com/Vishesht27/) contest top 10% worldwide with a rating of 1750+ and International rank under top 5K.
+▪ [LeetCode](https://leetcode.com/Vishesht27/) contest top 10% worldwide with a rating of 1750+ and International rank under top 5K
 
-▪ [Smart India Hackathon 2022](https://www.linkedin.com/posts/vishesh-tripathi_smartindiahackathon2022-activity-6970596278678249472-gzoX?utm_source=share&utm_medium=member_desktop) – Winner Category (National Runner Up) organized by Govt of India.
+▪ [Smart India Hackathon 2022](https://www.linkedin.com/posts/vishesh-tripathi_smartindiahackathon2022-activity-6970596278678249472-gzoX?utm_source=share&utm_medium=member_desktop) – Winner Category (National Runner Up) organized by Govt of India
 
-▪ [AWS DeepRacer](https://www.linkedin.com/posts/vishesh-tripathi_aws-awscommunity-deepracer-activity-6838033681345585152-usUN?utm_source=share&utm_medium=member_desktop) - Qualified Reinforcement-Learning Comp Initial Round (top 200) & competed in international finals.
+▪ [AWS DeepRacer](https://www.linkedin.com/posts/vishesh-tripathi_aws-awscommunity-deepracer-activity-6838033681345585152-usUN?utm_source=share&utm_medium=member_desktop) - Qualified Reinforcement-Learning Comp Initial Round (top 200) & competed in international finals
 
-▪ [AndroidDevChallenge Winner](https://www.linkedin.com/posts/vishesh-tripathi_androiddevchallenge-android-google-activity-6796813266623578112-AoOG?utm_source=share&utm_medium=member_desktop) - Application got featured in Top 500 in Google IO, built using Jetpack Compose.
+▪ [AndroidDevChallenge Winner](https://www.linkedin.com/posts/vishesh-tripathi_androiddevchallenge-android-google-activity-6796813266623578112-AoOG?utm_source=share&utm_medium=member_desktop) - Application got featured in Top 500 in Google IO, built using Jetpack Compose
 
   
 <h2 align="left">Languages and Tools:</h2>
