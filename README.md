@@ -21,7 +21,7 @@
 
 ## About me :
 
-- I am a LLM Research Engineer at TheAgentic. Former Machine Learning Engineer at Yellow.ai.
+- Machine Learning Engineer at Yellow.ai.
 - I usually play guitar🎸 & Flute🪈 , also, love reading books📚 when I am not working.
 -  I am a Machine Learning Enthusiast 🌱
 -  Fun fact **: I can code for a whole night and still crave more in the morning** ⚡
