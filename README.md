@@ -39,9 +39,13 @@
 
 ## Research Papers
 ▪ [Komodo: A Linguistic Expedition into Indonesia's Regional Languages](https://arxiv.org/abs/2403.09362)
+
 ▪ [Vision-Guided Chunking Is All You Need: Enhancing RAG with Multimodal Document Understanding](https://arxiv.org/abs/2506.16035)
+
 ▪ [The Instruction Gap: LLMs get lost in Following Instruction](https://arxiv.org/abs/2601.03269)
+
 ▪ [Beyond Extraction: Contextualising Tabular Data for Efficient Summarisation by Language Models](https://arxiv.org/abs/2401.02333)
+
 ▪ [Bahasa Harmony: A Comprehensive Dataset for Bahasa Text-to-Speech Synthesis with Discrete Codec Modeling of EnGen-TTS](https://arxiv.org/abs/2410.06608)
 
 
